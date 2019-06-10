@@ -1,0 +1,19 @@
+.App {
+  text-align: center;
+}
+
+.app_grid{
+  padding-top: 20px;
+  padding-left: 200px;
+}
+
+.app_box{
+  padding-top: 5px;
+}
+
+.test{
+}
+
+.app_search{
+  float: left;
+}
